@@ -1,3 +1,0 @@
-https://archive.ics.uci.edu/dataset/502/online+retail+ii
-
-https://link.springer.com/article/10.1057/dbm.2012.17
